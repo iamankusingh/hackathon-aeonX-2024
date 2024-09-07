@@ -1,13 +1,17 @@
-
 # hackathon-aeonX-2024
-#### 🥈 We got second prize.
+
+### 🥈 We got second prize.
+
+#### Other 2 Members : [Rudra Rajgor](https://www.instagram.com/rudra_n_rajgor_0007) and [Guarang Sharma](https://www.instagram.com/gaurang475_)
 
 ## Health Prediction and Caution System
 
 This is the code of a prototype we build in hackathon to predict health and caution near future.
+
 ## Organizer
 
 The hackathon was organized by [AeonX Digital](https://www.aeonx.digital/) at Bhuj on 5th september 2024.
+
 ## To Run Locally
 
 Clone the project
@@ -33,6 +37,7 @@ Install libraries
 ```bash
   pip install -r requirement.txt
 ```
+
 #### Setup API
 
 Go to [Gemini Api](https://aistudio.google.com/) and copy the key.
@@ -50,10 +55,12 @@ Start server
 ```bash
   streamlit run app.py
 ```
+
 Some commands my vary according to your system.
+
 ## Flow of Program
 
- - Input what it is asking.
- - Click "Predict Health Risk" button
- - It generate a prompt on the basis of your input and call API.
+- Input what it is asking.
+- Click "Predict Health Risk" button
+- It generate a prompt on the basis of your input and call API.
 - And at end, it print future risk and also suggestion to improve health.
