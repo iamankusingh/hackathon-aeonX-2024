@@ -31,7 +31,7 @@ Create virtual environment
 Install libraries
 
 ```bash
-  pip install requirement.txt
+  pip install -r requirement.txt
 ```
 #### Setup API
 
